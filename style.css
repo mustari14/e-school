@@ -1,0 +1,90 @@
+.nav a{
+    color: black;
+}
+.login-btn{
+    border-radius: 33px;
+    padding: 12px 28px 12px 28px;
+    background-color: #21b573;
+    border: none;
+    
+}
+.login-btn a{
+    color: white;
+    text-decoration: none;
+}
+.text{
+    color: orange;
+}
+span{
+    color: #21b573;
+}
+.text2{
+    color: gray;
+}
+.container-box{
+    width: 100%px;
+    height: 576px;
+    background-color: #F0FFF0;
+}
+.container-icon{
+    margin-top: 50px;
+}
+.box-1, .box-2, .box-3, .box-4{
+  background-color:#F8FFFB;
+  width: 270px;
+    height: 270px;
+    top: 618px;
+    left: 135px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.box-2{
+    background-color:#FFFFFF;
+    width: 270px;
+      height: 270px;
+      top: 618px;
+      left: 135px;
+      border-radius: 10px;
+      text-align: center;
+}
+.box-1, .box-2, .box-3, .box-4, p{
+    color: gray;
+}
+
+.container-courses h1{
+    text-align: center;
+    color:#413960 ;
+}
+.container-courses .card{
+    box-shadow: 10px 5px 5px lightgray;
+    border: none;
+    margin-top:80px ;
+}
+.container-courses .card-footer{
+    border: none;
+    background-color: #FFFFFF;
+}
+.container-testimonial h1{
+    text-align: center;
+}
+.container-testimonial{
+    margin-top: 170px;
+    text-align: justify;
+    
+}
+footer{
+margin-top:80px ;
+width:100%;
+height: 369px;
+top: 2060px;
+background-color: #282531;
+
+}
+footer h5{
+    color: #FFFFFF;
+    margin-top: 70px;
+}
+footer .copy{
+    text-align: center;
+}
